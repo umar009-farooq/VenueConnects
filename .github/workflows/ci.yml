@@ -48,4 +48,4 @@ jobs:
         with:
           context: . # Use the current directory as build context
           push: true # Push the image after building
-          tags: rusumumar09/venueconnect-app:latest # Replace with your username and image tag
+          tags: umar009/venueconnect-app:latest # Replace with your username and image tag
